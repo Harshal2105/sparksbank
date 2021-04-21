@@ -1,1 +1,1 @@
-# sparksbank
+# The Sparks Foundation Internship
